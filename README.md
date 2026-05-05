@@ -13,7 +13,7 @@ Senior QA Automation Engineer · 7+ years in QA · Team Lead
 
 | Project | Description | Stack |
 |---|---|---|
-| [aqa-notes](https://github.com/lytvyn-anton/aqa-notes) | Playwright E2E portfolio — knowledge base app with cross-browser CI | Playwright · TypeScript · React |
+| [aqa-notes](https://github.com/lytvyn-anton/aqa-notes) | Playwright E2E portfolio - knowledge base app with cross-browser CI | Playwright · TypeScript · React |
 
 ## Connect
 
