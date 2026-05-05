@@ -1,6 +1,6 @@
 # Anton Lytvyn
 
-Senior QA Automation Engineer · 7+ years in QA · Team Lead
+Senior QA Automation Engineer · Team Lead
 
 ## Stack
 
