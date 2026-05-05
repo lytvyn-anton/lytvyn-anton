@@ -1,16 +1,20 @@
-## Hi there 👋
+# Anton Lytvyn
 
-<!--
-**lytvyn-anton/lytvyn-anton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior QA Automation Engineer · 7+ years in QA · Team Lead
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mobile:** Detox · Maestro
+- **Web/API:** Playwright · TypeScript
+- **CI/CD:** GitHub Actions · self-hosted macOS runners
+- **Test management:** Qase · TestRail
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [aqa-notes](https://github.com/lytvyn-anton/aqa-notes) | Playwright E2E portfolio — knowledge base app with cross-browser CI | Playwright · TypeScript · React |
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/anton-l-2a67b6113)
